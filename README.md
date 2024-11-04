@@ -30,7 +30,7 @@ git clone https://github.com/jiwoo9907/Autonomous-Ship-Control.git
 ### Step 2:
 ### Clone the repository to your system 
 ```
-git clone https://github.com/jiwoo9907/Autonomous-Ship-Control.git
+git clone [https://github.com/jiwoo9907/Autonomous-Ship-Control.git](https://github.com/jiwoo99097/rain_autonomous_ship_control.git)
 cd your_workspace
 ```
 
