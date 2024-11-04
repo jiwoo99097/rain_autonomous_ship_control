@@ -39,7 +39,7 @@ cd your_workspace
 ```
 cd your_workspace
 
-source opt/ros/setup.bash
+source opt/ros/humble/setup.bash
 colcon build 
 source install/setup.bash
 ```
