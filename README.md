@@ -5,7 +5,7 @@ This guide provides instructions for launching necessary packages for Autonomous
 ## Table of Contents
 1. [ROS2 Humble Installation](#1.ROS2-Humble-Installation)
 2. [Autonomous Ship Controll Package Installation](#2.Autonomous-Ship-Control-Package-Installation)
-3. [Usage](3.Usage)
+3. [Usage](#3.Usage)
 
 ***
 ## 1.ROS2 Humble Installation 
