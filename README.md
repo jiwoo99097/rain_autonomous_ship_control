@@ -38,6 +38,8 @@ cd your_workspace
 ### Build the package and source the Setup Script
 ```
 cd your_workspace
+
+source opt/ros/setup.bash
 colcon build 
 source install/setup.bash
 ```
