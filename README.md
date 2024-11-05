@@ -19,7 +19,7 @@ https://docs.ros.org/en/humble/Installation.html
 ## 2.Autonomous Ship Control Pacakgae Installation 
  
  ```python
-git clone https://github.com/jiwoo9907/rain_autonomous_ship_control.git
+git clone https://github.com/jiwoo99097/rain_autonomous_ship_control.git
 ```
 ***
 
@@ -30,7 +30,7 @@ git clone https://github.com/jiwoo9907/rain_autonomous_ship_control.git
 ### Step 2:
 ### Clone the repository to your system 
 ```
-git clone https://github.com/jiwoo9907/rain_autonomous_ship_control.git
+git clone https://github.com/jiwoo99097/rain_autonomous_ship_control.git
 cd your_workspace
 ```
 
